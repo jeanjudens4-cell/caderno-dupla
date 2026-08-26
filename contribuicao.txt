@@ -1,0 +1,4 @@
+
+atividade prática de Git e GitHub
+
+contribuição do Aluno B.este arquivo foi criado para praticar clone,commit,push e pull.
